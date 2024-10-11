@@ -1,4 +1,4 @@
 python -m venv myenv
-source myenv/bin/activate
+. myenv/bin/activate
 pip install requests
 pip install rich
